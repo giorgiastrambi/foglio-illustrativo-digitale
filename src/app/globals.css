@@ -82,3 +82,13 @@
 .accordion-trigger {
   @apply bg-[#E83663] text-white p-2 rounded-lg;
 }
+
+ul {
+  list-style: initial;
+  list-style-type: initial;
+  padding-inline-start: 1rem;
+}
+ul li {
+  list-style: initial;
+  list-style-type: initial;
+}
