@@ -46,9 +46,9 @@ export default function Home() {
               <div>
                 Augmentin è un antibiotico che funziona uccidendo i batteri che
                 causano infezioni. Contiene due diversi medicinali chiamati
-                amoxicillina e acido clavulanico. L’amoxicillina appartiene ad
+                amoxicillina e acido clavulanico. L'amoxicillina appartiene ad
                 un gruppo di medicinali chiamati “penicilline” la cui attività
-                può a volte essere bloccata (vengono resi inattivi). L’altro
+                può a volte essere bloccata (vengono resi inattivi). L'altro
                 componente attivo (acido clavulanico) impedisce che questo
                 avvenga. Augmentin è utilizzato negli adulti e nei bambini per
                 trattare le seguenti infezioni:
@@ -162,7 +162,7 @@ export default function Home() {
               <div>
                 Se lei non è sicuro che uno dei casi sopra descritti la
                 riguarda, ne parli al medico o al farmacista prima di prendere
-                Augmentin. In alcuni casi, il medico può fare un’indagine per
+                Augmentin. In alcuni casi, il medico può fare un'indagine per
                 valutare il tipo di batterio che ha causato la sua infezione.
                 Sulla base dei risultati, le può prescrivere un dosaggio diverso
                 di Augmentin o un medicinale diverso. Condizioni a cui lei deve
@@ -173,8 +173,8 @@ export default function Home() {
               </div>
               <div>
                 Questi possono includere reazioni allergiche convulsioni e
-                infiammazioni. dell’intestino. Lei deve prestare attenzione ad
-                alcuni sintomi durante l’assunzione di Augmentin, al fine di
+                infiammazioni. dell'intestino. Lei deve prestare attenzione ad
+                alcuni sintomi durante l'assunzione di Augmentin, al fine di
                 ridurre qualsiasi rischio. Vedere “Condizioni a cui lei deve
                 prestare attenzione” al Paragrafo 4.
               </div>
@@ -185,7 +185,7 @@ export default function Home() {
                 Se lei sta per effettuare gli esami del sangue (come per esempio
                 controlli relativi ai globuli rossi o esami di funzionalità del
                 fegato) o esami delle urine (per il glucosio), informi il medico
-                o l’infermiere che sta prendendo Augmentin. Questo perchè
+                o l'infermiere che sta prendendo Augmentin. Questo perchè
                 Augmentin può influenzare i risultati di questo tipo di esami.
               </div>
               <div className="text-brand-red">
@@ -327,12 +327,12 @@ export default function Home() {
                 Tenere fuori dalla portata e dalla vista dei bambini.
                 <br />
                 Non usi Augmentin dopo la data di scadenza riportata sulla
-                confezione. La data di scadenza si riferisce all’ultimo giorno
+                confezione. La data di scadenza si riferisce all'ultimo giorno
                 del mese.
-                <br />I medicinali non devono essere gettati nell’acqua di
+                <br />I medicinali non devono essere gettati nell'acqua di
                 scarico e nei rifiuti domestici. Chieda al farmacista come
                 eliminare i medicinali che non usa più. Questo aiuterà a
-                proteggere l’ambiente.
+                proteggere l'ambiente.
               </div>
             </CustomAccordion>
             <CustomAccordion value="item-5" title={accordion_content[4].title}>
@@ -424,7 +424,7 @@ export default function Home() {
               {/* 
               convert to html:
               Possono interessare fino a 1 su 1,000 persone
- eruzione cutanee, che possono presentarsi come vescicole e sembrare piccoli bersagli (macchia scura centrale circondata da un’area più pallida, con un anello scuro intorno al bordo – eritema multiforme)
+ eruzione cutanee, che possono presentarsi come vescicole e sembrare piccoli bersagli (macchia scura centrale circondata da un'area più pallida, con un anello scuro intorno al bordo – eritema multiforme)
 Se lei nota uno di questi sintomi contatti il medico urgentemente
 Effetti indesiderati rari possono essere visibili dagli esami del sangue:
  basso numero delle cellule coinvolte nella coagulazione del sangue
@@ -488,7 +488,7 @@ Effetti indesiderati rari possono essere visibili dagli esami del sangue:
                 <ul>
                   <li>Infiammazione del fegato (epatite)</li>
                   <li>
-                    Ittero, causato dall’aumento nel sangue di bilirubina (una
+                    Ittero, causato dall'aumento nel sangue di bilirubina (una
                     sostanza prodotta nel fegato) che può far apparire di colore
                     giallo la pelle e il bianco degli occhi
                   </li>
