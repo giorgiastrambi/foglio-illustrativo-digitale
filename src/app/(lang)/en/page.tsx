@@ -218,8 +218,8 @@ export default function Home() {
               </div>
               <div>Adults and children weighing 40 kg and over</div>
               <ul>
-                <li> Usual dose – 1 tablet two times a day</li>
-                <li> Higher dose – 1 tablet three times a day</li>
+                <li> Usual dose - 1 tablet two times a day</li>
+                <li> Higher dose - 1 tablet three times a day</li>
               </ul>
 
               <div className="text-brand-red">
@@ -234,6 +234,7 @@ export default function Home() {
                 tablets to children weighing less than 40 kg. The tablets are
                 not suitable for children weighing less than 25 kg.
               </div>
+
               <div className="text-brand-red">
                 Patients with kidney and liver problems
               </div>
@@ -249,6 +250,7 @@ export default function Home() {
                   tests to check how your liver is working.
                 </li>
               </ul>
+
               <div className="text-brand-red">How to take Augmentin</div>
 
               <ul>
@@ -374,7 +376,7 @@ export default function Home() {
                   feeling sick (nausea), especially when taking high doses
                 </li>
                 <li>vomiting</li>
-                <li>diarrhoea (in children).</li>
+                <li>diarrhea (in children).</li>
               </ul>
 
               <div className="text-brand-red">
@@ -383,7 +385,7 @@ export default function Home() {
 
               <ul>
                 <li>skin rash, itching</li>
-                <li> raised itchy rash (hives)</li>
+                <li>raised itchy rash (hives)</li>
                 <li>indigestion</li>
                 <li>dizziness</li>
                 <li>headache</li>
@@ -393,7 +395,7 @@ export default function Home() {
                 Uncommon side effects that may show up in your blood tests
               </div>
               <div>
-                increase in some substances (enzymes) produced by the liver.
+                Increase in some substances (enzymes) produced by the liver.
               </div>
               <div className="text-brand-red">
                 Rare side effects. These may affect up to 1 in 1000 people
@@ -402,7 +404,7 @@ export default function Home() {
                 <li>
                   skin rash, which may blister, and looks like small targets
                   (central dark spots surrounded by a paler area, with a dark
-                  ring around the edge – erythema multiforme).
+                  ring around the edge - erythema multiforme).
                 </li>
               </ul>
               <div>
@@ -419,16 +421,19 @@ export default function Home() {
               <ul>
                 <li>Allergic reactions (see above)</li>
                 <li>Inflammation of the large intestine (see above)</li>
-                <li>Gravi reazioni della pelle:</li>
+                <li>
+                  {" "}
+                  Inflammation of the protective membrane surrounding the brain
+                  (aseptic meningitis).
+                </li>
+                <li>Serious skin reactions:</li>
                 <ul>
                   <li>
-                    Inflammation of the protective membrane surrounding the
-                    brain (aseptic meningitis). Serious skin reactions: − a
-                    widespread rash with blisters and peeling skin, particularly
-                    around the mouth, nose, eyes and genitals (Stevens-Johnson
-                    syndrome), and a more severe form, causing extensive peeling
-                    of the skin (more than 30% of the body surface – toxic
-                    epidermal necrolysis)
+                    a widespread rash with blisters and peeling skin,
+                    particularly around the mouth, nose, eyes and genitals
+                    (Stevens-Johnson syndrome), and a more severe form, causing
+                    extensive peeling of the skin (more than 30% of the body
+                    surface - toxic epidermal necrolysis)
                   </li>
                   <li>
                     widespread red skin rash with small pus-containing blisters
@@ -473,9 +478,6 @@ export default function Home() {
                   <li>low number of red blood cells (haemolytic anaemia)</li>
                   <li>crystals in urine.</li>
                 </ul>
-                <div className="text-brand-red">
-                  Se lei presenta effetti indesiderati
-                </div>
               </div>
               <div className="text-brand-red font-bold">
                 → If you get any side effects, talk to your doctor or
@@ -509,15 +511,15 @@ export default function Home() {
                   the EEA under the following names:
                 </p>
                 <p>
-                  Austria – Augmentin Belgium - Augmentin Bulgaria - Augmentin
-                  Cyprus – Augmentin Czech Republic – Augmentin Estonia -
-                  Augmentin Finland – Augmentin Germany – Augmentan Greece -
-                  Augmentin Hungary – Augmentin Duo Iceland - Augmentin Ireland
-                  – Augmentin Italy – Augmentin Latvia - Augmentin Lithuania –
-                  Augmentin Luxembourg - Augmentin Malta – Augmentin Netherlands
-                  - Augmentin Poland - Augmentin Portugal – Augmentin Duo
-                  Romania – Augmentin Slovak Republic – Augmentin Slovenia
-                  –Augmentin Spain – Augmentine, Clavumox United Kingdom –
+                  Austria - Augmentin Belgium - Augmentin Bulgaria - Augmentin
+                  Cyprus - Augmentin Czech Republic - Augmentin Estonia -
+                  Augmentin Finland - Augmentin Germany - Augmentan Greece -
+                  Augmentin Hungary - Augmentin Duo Iceland - Augmentin Ireland
+                  - Augmentin Italy - Augmentin Latvia - Augmentin Lithuania -
+                  Augmentin Luxembourg - Augmentin Malta - Augmentin Netherlands
+                  - Augmentin Poland - Augmentin Portugal - Augmentin Duo
+                  Romania - Augmentin Slovak Republic - Augmentin Slovenia
+                  -Augmentin Spain - Augmentine, Clavumox United Kingdom -
                   Augmentin
                 </p>
               </div>
